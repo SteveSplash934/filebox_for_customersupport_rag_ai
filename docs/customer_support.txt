@@ -1,0 +1,9 @@
+Customer Support Note — Account Verification
+
+Customers who cannot verify their email should first check their spam or junk folder.
+If the verification email has not arrived after ten minutes, ask the customer to request a new message.
+A verification link can only be used once and expires after 24 hours.
+For account security, support agents must never ask customers to share their passwords.
+
+Escalation: If the customer no longer has access to their registered email, route the case to Account Security.
+Contact: accounts@example.com

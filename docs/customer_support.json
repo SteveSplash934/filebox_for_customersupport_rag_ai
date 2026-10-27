@@ -1,0 +1,20 @@
+{
+  "service": "Northstar Help Desk",
+  "article_type": "subscription_billing",
+  "last_updated": "2026-10-20",
+  "policies": [
+    {
+      "question": "How do I update my payment method?",
+      "answer": "Sign in, open Settings, select Billing, and choose Update payment method. Save the new details to apply them to future renewals."
+    },
+    {
+      "question": "Why was my subscription renewed?",
+      "answer": "Subscriptions renew automatically unless cancelled before the renewal date. The billing page shows the next renewal date."
+    },
+    {
+      "question": "How can I cancel?",
+      "answer": "Open Settings, select Plan, and choose Cancel subscription. Access normally remains active until the current paid period ends."
+    }
+  ],
+  "billing_contact": "billing@example.com"
+}

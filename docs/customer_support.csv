@@ -1,0 +1,5 @@
+ticket_id,priority,issue,resolution_status,team
+CS-2041,High,Mobile app crashes on launch after update,Escalated to engineering,Technical Support
+CS-2042,Normal,Customer cannot change profile display name,Instructions sent,Account Support
+CS-2043,Low,Request for invoice copy for September purchase,Invoice emailed,Billing
+CS-2044,High,Accessibility keyboard navigation fails on checkout,Bug report created,Product Support
